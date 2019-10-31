@@ -14,11 +14,11 @@ Metabolomics is the scientific study of the chemical processes in a living syste
 ### Book Main Chapters
 
 - **Overview of Metabolomics** - Oscar Yanes, Reza Salek, Igor Marin, Marta Cascante
-- **Study Design and Preparation** - Pietro Franceschi, Oscar Yanes and Ron Wehrens
+- **Study Design and Preparation** - [Pietro Franceschi](https://github.com/pietrofranceschi), Oscar Yanes and [Ron Wehrens](https://github.com/rwehrens)
 - **Measurement Technologies** - Oscar Yanes, Katherine Hollywood, Roland Mumm, Maria Vinaixa, Naomi Rankin, Ron Wehrens & Reza Salek
-- **Mass Spectrometry Data Processing** - Steffen Neumann, Oscar Yanes, Roland Mumm, Pietro Franceschi
--**Nuclear Magnetic Resonance Spectroscopy Data Processing** - Maria Vinaixa, Naomi Rankin, Jeremy Everett and Reza Salek
-- **Statistics: the essentials** - Ron Wehrens and Pietro Franceschi
+- **Mass Spectrometry Data Processing** - [Steffen Neumann](https://github.com/sneumann), Oscar Yanes, Roland Mumm, Pietro Franceschi
+-**Nuclear Magnetic Resonance Spectroscopy Data Processing** -[Maria Vinaixa](https://github.com/mvinaixa), Naomi Rankin, Jeremy Everett and Reza Salek
+- **Statistics: the essentials** - [Ron Wehrens](https://github.com/rwehrens) and [Pietro Franceschi](https://github.com/pietrofranceschi)
 - **Data fusion in metabolomics** - Johan A. Westerhuis, Frans van der Kloet, Age K. Smilde
 - **Genome-scale metabolic network**s - Clément Frainay & Fabien Jourdan
 - **Metabolic flux** - Igor Marín de Mas and Marta Cascante
@@ -26,4 +26,4 @@ Metabolomics is the scientific study of the chemical processes in a living syste
 
 [![Book](https://images.tandf.co.uk/common/jackets/amazon/978149872/9781498725262.jpg)](https://www.crcpress.com/Metabolomics-Practical-Guide-to-Design-and-Analysis/Wehrens-Can/p/book/9781498725262)
 
-**To oreder the book** [_click here_](https://www.crcpress.com/Metabolomics-Practical-Guide-to-Design-and-Analysis/Wehrens-Can/p/book/9781498725262)  
+**To order the book** [_click here_](https://www.crcpress.com/Metabolomics-Practical-Guide-to-Design-and-Analysis/Wehrens-Can/p/book/9781498725262)  
