@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Metabolomics: Practical Guide to Design and Analysis
+###1st Edition edited by Ron Wehrens, Reza Salek
 
-You can use the [editor on GitHub](https://github.com/rsalek/Metabolomics--Practical--Guide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Metabolomics is the scientific study of the chemical processes in a living system, environment and nutrition. It is a relatively new omics science, but the potential applications are wide, including medicine, personalized medicine and intervention studies, food and nutrition, plants, agriculture and environmental science. The topics presented and discussed in this book are based on the European Molecular Biology Organization (EMBO) practical courses in metabolomics bioinformatics taught to those working in the field, from masters to postgraduate students, PhDs, postdoctoral and early PIs. The book covers the basics and fundamentals of data acquisition and analytical technologies, but the primary focus is data handling and data analysis. The mentioning and usage of a particular data analysis tool has been avoided; rather, the focus is on the concepts and principles of data processing and analysis. The material has been class-tested and includes lots of examples, computing and exercises.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Key Features:
 
-### Markdown
+- Provides an overview of qualitative /quantitative methods in metabolomics
+- Offers an introduction to the key concepts of metabolomics, including experimental design and technology
+- Covers data handling, processing, analysis, data standards and sharing
+- Contains lots of examples to illustrate the topics
+- Includes contributions from some of the leading researchers in the field of metabolomics with extensive teaching experiences
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](https://images.tandf.co.uk/common/jackets/amazon/978149872/9781498725262.jpg)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rsalek/Metabolomics--Practical--Guide/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**To oreder the book** _click here_ [Link](https://www.crcpress.com/Metabolomics-Practical-Guide-to-Design-and-Analysis/Wehrens-Can/p/book/9781498725262)  
