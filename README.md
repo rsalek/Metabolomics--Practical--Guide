@@ -13,16 +13,16 @@ Metabolomics is the scientific study of the chemical processes in a living syste
 
 ### Book Main Chapters
 
-- Overview of Metabolomics - Oscar Yanes, Reza Salek, Igor Marin, Marta Cascante
-- Study Design and Preparation - Pietro Franceschi, Oscar Yanes and Ron Wehrens
-- Measurement Technologies - Oscar Yanes, Katherine Hollywood, Roland Mumm, Maria Vinaixa, Naomi Rankin, Ron Wehrens & Reza Salek
-- Mass Spectrometry Data Processing - Steffen Neumann, Oscar Yanes, Roland Mumm, Pietro Franceschi
-- Nuclear Magnetic Resonance Spectroscopy Data Processing - Maria Vinaixa, Naomi Rankin, Jeremy Everett and Reza Salek
-- Statistics: the essentials - Ron Wehrens and Pietro Franceschi
-- Data fusion in metabolomics - Johan A. Westerhuis, Frans van der Kloet, Age K. Smilde
-- Genome-scale metabolic networks - Clément Frainay & Fabien Jourdan
-- Metabolic flux - Igor Marín de Mas and Marta Cascante
-- Data Sharing and Standards - Reza Salek
+- **Overview of Metabolomics** - Oscar Yanes, Reza Salek, Igor Marin, Marta Cascante
+- **Study Design and Preparation** - Pietro Franceschi, Oscar Yanes and Ron Wehrens
+- **Measurement Technologies** - Oscar Yanes, Katherine Hollywood, Roland Mumm, Maria Vinaixa, Naomi Rankin, Ron Wehrens & Reza Salek
+- **Mass Spectrometry Data Processing** - Steffen Neumann, Oscar Yanes, Roland Mumm, Pietro Franceschi
+-**Nuclear Magnetic Resonance Spectroscopy Data Processing** - Maria Vinaixa, Naomi Rankin, Jeremy Everett and Reza Salek
+- **Statistics: the essentials** - Ron Wehrens and Pietro Franceschi
+- **Data fusion in metabolomics** - Johan A. Westerhuis, Frans van der Kloet, Age K. Smilde
+- **Genome-scale metabolic network**s - Clément Frainay & Fabien Jourdan
+- **Metabolic flux** - Igor Marín de Mas and Marta Cascante
+- **Data Sharing and Standards** - Reza Salek
 
 [![Book](https://images.tandf.co.uk/common/jackets/amazon/978149872/9781498725262.jpg)](https://www.crcpress.com/Metabolomics-Practical-Guide-to-Design-and-Analysis/Wehrens-Can/p/book/9781498725262)
 
