@@ -13,4 +13,4 @@ Metabolomics is the scientific study of the chemical processes in a living syste
 
 ![Image](https://images.tandf.co.uk/common/jackets/amazon/978149872/9781498725262.jpg)
 
-**To oreder the book** _click here_ [Link](https://www.crcpress.com/Metabolomics-Practical-Guide-to-Design-and-Analysis/Wehrens-Can/p/book/9781498725262)  
+**To order the book** _click here_ [Link](https://www.crcpress.com/Metabolomics-Practical-Guide-to-Design-and-Analysis/Wehrens-Can/p/book/9781498725262)  
