@@ -1,0 +1,26 @@
+<link rel="icon" href="/assets/brand/biotechvision-icon.svg" type="image/svg+xml">
+<link rel="icon" href="/assets/brand/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="icon" href="/assets/brand/favicon-16.png" type="image/png" sizes="16x16">
+<link rel="shortcut icon" href="/assets/brand/favicon.ico">
+<link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon-180.png" sizes="180x180">
+<link rel="manifest" href="/assets/brand/site.webmanifest">
+<style>
+  header .bv-home { display: inline-flex; align-items: center; line-height: 0; margin: 0 0 10px; text-decoration: none; }
+  header .bv-home img { display: block; height: 22px; width: auto; }
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  if (document.querySelector(".bv-home")) return;
+  var header = document.querySelector("header");
+  if (!header) return;
+  var a = document.createElement("a");
+  a.className = "bv-home";
+  a.href = "https://biotechvision.co.uk/";
+  var img = document.createElement("img");
+  img.src = "/assets/brand/biotechvision-logo-dark.svg";
+  img.alt = "BiotechVision";
+  img.height = 22;
+  a.appendChild(img);
+  header.insertBefore(a, header.firstChild);
+});
+</script>
