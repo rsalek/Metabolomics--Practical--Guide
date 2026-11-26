@@ -1,0 +1,40 @@
+.book-bar a {
+  color: var(--ink);
+  font-size: 16px;
+  font-weight: 600;
+  padding-block: 8px;
+}
+.book-intro { background: var(--soft); }
+.book-intro-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 285px);
+  align-items: center;
+  gap: clamp(24px, 7vw, 92px);
+  padding-block: clamp(40px, 7vw, 90px);
+}
+.book-intro h1 { font-size: clamp(47px, 6vw, 82px); overflow-wrap: anywhere; }
+.book-intro h1 span {
+  display: block;
+  font-size: clamp(27px, 3.3vw, 48px);
+  margin-top: 6px;
+}
+.book-credit { font-size: 22px; font-weight: 600; margin-top: 22px; }
+.book-meta { color: var(--muted); margin-top: 3px; }
+.book-summary { max-width: 58ch; margin-top: 18px; }
+.book-cover { display: block; width: 100%; max-width: 285px; height: auto; }
+.book-scope, .book-chapters { max-width: 960px; }
+.book-scope p { max-width: 68ch; margin-top: 12px; }
+.book-chapters { padding-bottom: clamp(40px, 6vw, 78px); }
+.book-chapters h2 { margin-bottom: 20px; }
+.book-chapters ol { margin: 0; padding-left: 2ch; }
+.book-chapters li { border-top: 1px solid var(--line); padding: 16px 0 16px 8px; }
+.book-chapters li:last-child { border-bottom: 1px solid var(--line); }
+.book-chapters li::marker { color: var(--accent); font-variant-numeric: tabular-nums; }
+.book-chapters h3 { font-size: 22px; }
+.book-chapters li p { color: var(--muted); margin-top: 5px; }
+
+@media (max-width: 650px) {
+  .site-header .book-bar { flex-direction: row; align-items: center; flex-wrap: wrap; min-height: 64px; }
+  .book-intro-layout { grid-template-columns: 1fr; }
+  .book-cover { max-width: 190px; }
+}
